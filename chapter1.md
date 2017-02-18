@@ -6,7 +6,7 @@ Here introduces UI on GitHub and how it works.
 
 #### 登陆后主页UI如下 Here is home page UI after login
 
-![](/assets/2017-02-18_16-50-13.png)
+![](./assets/2017-02-18_16-50-13.png)
 
 ###### 请注意：顶部导航栏部分已被GitHub默认修改为黑色，如需达到截图中的白色效果请参考[这一CSS脚本](https://userstyles.org/styles/138766/github-return-light-themed-header)效果. 如不清楚如何使用，参考[这里](https://userstyles.org/help/stylish)。
 
@@ -50,7 +50,7 @@ Here introduces UI on GitHub and how it works.
 
 #### 项目主页UI如下 Here is repository UI
 
-![](/assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name
+![](./assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name
 
 ②代码详情（此页为项目主页）code details \(also repo home page\)
 
