@@ -66,7 +66,7 @@ Here introduces UI on GitHub and how it works.
 
 ⑨设置，仅在属于你的项目中可见 settings, only visible in your repo
 
-⑩项目描述，点击右侧Edit按钮编辑 repo descriptions
+⑩项目描述；点击右侧Edit按钮编辑；点击new topics添加项目主题标签 repo descriptions
 
 ⑪点击分别显示提交详情commits 分支branch 版本发布release 贡献人contributor
 
