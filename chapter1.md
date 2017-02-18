@@ -40,6 +40,14 @@ Here introduces UI on GitHub and how it works.
 
 ⑩通知详情，展示关于你关注的人或项目的_**公开**_详情 noticifications about_** open**_ details about people you follow or repo your watch
 
+⑪显示你有贡献（新建或讨论相关issue或提交过代码）的项目，点击⑫展开
+
+⑪display all repos you contributed to \(created new or commented on issues or created pull request\), click ⑫ to expand
+
+⑬展示属于你的项目 display all your repos
+
+⑭新建项目按钮 new repo button
+
 #### 项目主页UI如下 Here is repository UI
 
 ![](/assets/firefox_2017-02-18_18-42-27.png)UI
