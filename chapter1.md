@@ -50,5 +50,25 @@ Here introduces UI on GitHub and how it works.
 
 #### 项目主页UI如下 Here is repository UI
 
-![](/assets/firefox_2017-02-18_18-42-27.png)UI
+![](/assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name
+
+②代码详情（此页为项目主页）code details \(also repo home page\)
+
+③项目相关议题issue in this repo
+
+④代码提交请求open pull request
+
+⑤项目工程project（利于团队合作）new project \(for team work\)
+
+⑥项目文档wiki
+
+⑦⑧将项目活动以图标形式显示 graphs to display repo activities
+
+⑨设置settings
+
+⑩项目描述 repo descriptions
+
+⑪点击分别显示提交详情commits 分支branch 版本发布release 贡献人contributor
+
+⑫查看每一分支代码详情或就当前分支提出提交请求pull request  
 
