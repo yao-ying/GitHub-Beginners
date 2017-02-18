@@ -28,9 +28,9 @@ Here introduces UI on GitHub and how it works.
 
 ⑥noticification button: click to see all noticifications relevant to you. There will the blue spot as the screenshot above if there is new one.
 
-⑦新建按钮：点击可以新建项目（等效于⑭）、导入项目、新的Gist、新建组织。**在项目主页中**还可以新建issue或者邀请合作人collaborator
+⑦新建按钮：点击可以新建项目（等效于⑭）、导入项目、新的Gist、新建组织。**在属于你的项目主页中**还可以新建issue或者邀请合作人collaborator
 
-⑦new button: click to create a new repo \(equal to ⑭\), import a repo, new Gist or a new organization. Click **this in repo home page** to create a new issue or invite a new collaborator
+⑦new button: click to create a new repo \(equal to ⑭\), import a repo, new Gist or a new organization. Click this** in your repo home page** to create a new issue or invite a new collaborator
 
 ⑧账户相关操作，包含：账户信息Your profile、你收藏的项目Your stars、探索GitHub Explore、GitHub服务集成Intergrations、官方帮助站点Help、账户设置Settings、登出Sign out
 
@@ -64,7 +64,7 @@ Here introduces UI on GitHub and how it works.
 
 ⑦⑧将项目活动以图标形式显示 graphs to display repo activities
 
-⑨设置settings
+⑨设置，仅在属于你的项目中可见 settings, only visible in your repo
 
 ⑩项目描述，点击右侧Edit按钮编辑 repo descriptions
 
