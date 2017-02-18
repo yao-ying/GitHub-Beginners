@@ -1,6 +1,6 @@
 ![](./images/s1/the-clone-button.png)
 
-在克隆菜单之中可以看见，有三个按钮：
+在每一个Github网站上面的repository的首页之中，我们都能够看见一个绿色的代码克隆菜单。在克隆菜单之中可以看见，有三个按钮：
 
 1. **Open in Desktop**: 使用Github Desktop客户端打开
 2. **Open in Visual Studio**: 使用VisualStudio之中内置的官方Github客户端打开
@@ -20,3 +20,7 @@
 ![](./images/s1/select-local-directory.png)
 
 最后，我们点击``Clone``按钮即可开始代码的克隆操作。
+
+![](./images/s1/clone-progress.png)
+
+在VisualStudio对我们的目标repository的clone操作之中，我们可以很清楚的了解到当前的克隆进度以及数据的下载速度。例如在上图之中，我们可以了解到，当前的克隆进度为``3295/52375 * 100% = 6.29%``，代码的下载速度为``22.00KiB/s``。或许我们只需要喝一杯咖啡，休息一下大脑，慢慢等待克隆操作的进度条走完即可。
