@@ -34,7 +34,7 @@ Here introduces UI on GitHub and how it works.
 
 ⑧账户相关操作，包含：账户信息Your profile、你收藏的项目Your stars、探索GitHub Explore、GitHub服务集成Intergrations、官方帮助站点Help、账户设置Settings、登出Sign out
 
-⑧account relavant operations, including: your profile, your stars, Explore, Intergrations, Help, Settings, Sign out
+⑧account relavant operations, including: your profile, your stars, Explore, Integrations, Help, Settings, Sign out
 
 ⑨GitHub官方通知 noticifications from GitHub
 
