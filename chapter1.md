@@ -66,9 +66,23 @@ Here introduces UI on GitHub and how it works.
 
 ⑨设置settings
 
-⑩项目描述 repo descriptions
+⑩项目描述，点击右侧Edit按钮编辑 repo descriptions
 
 ⑪点击分别显示提交详情commits 分支branch 版本发布release 贡献人contributor
 
-⑫查看每一分支代码详情或就当前分支提出提交请求pull request  
+⑫查看每一分支代码详情或就_**当前分支**_提出提交请求pull request    view details on every branch or create new pull request on _**current branch**_
+
+⑬新建、上传、查找文件，或将当前项目源代码打包下载或者在桌面打开（需要安装GitHub for desktop）open in desktop
+
+⑭该项目最新提交的提交人、内容、时间及代号 last commit info
+
+⑮文件列表，点击查看源代码   files list, click to see source code
+
+⑯项目须知readme
+
+⑰watch关注这一项目所有活动，再次点击取消 watch all activities in this repo, click again to cancel
+
+⑱star项目收藏，再次点击取消 stargerize this repo, click again to cancel
+
+⑲fork新建属于你的项目副本（与主项目_**不自动同步**_） fork this repo \(will _**NOT **_sync with the original repo\)
 
