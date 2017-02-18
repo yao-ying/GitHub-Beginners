@@ -84,5 +84,5 @@ Here introduces UI on GitHub and how it works.
 
 ⑱star项目收藏，再次点击取消 stargerize this repo, click again to cancel
 
-⑲fork新建属于你的项目副本（与主项目_**不自动同步**_） fork this repo \(will _**NOT **_sync with the original repo\)
+⑲fork新建属于你的项目副本（与主项目_**不自动同步**_） fork this repo \(will **NOT **sync with the original repo\)
 
