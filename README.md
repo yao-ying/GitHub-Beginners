@@ -12,7 +12,7 @@ This is to introduce how to get started with GitHub.
 
 Note that only basic knowledge that everyone can learn through will be intoduced here.
 
-Click [here](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1) for more details
+###### Click [here](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1) for more details
 
 
 
