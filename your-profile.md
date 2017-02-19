@@ -28,5 +28,11 @@ check out `SSH and GPG keys` in your account, used to enable HTTPS if you clone 
 
 账户安全设置`Security`，查看账户两步验证情况、当前登陆活动及历史登陆活动 overview for two-factor authentication, current session and history activities.
 
-黑名单`Blocked users`，了解何种情况下可拉黑用户，被拉黑的后果以及已拉黑的用户或立即拉黑用户   check out details about blocked users
+黑名单`Blocked users`，了解何种情况下可拉黑用户，被拉黑的后果以及已拉黑的用户或立即拉黑用户（通过其中搜索框搜索用户名）   check out details about blocked users
+
+项目详情`Repositories`，查看各项目总体积详情
+
+组织详情`Organizations`，查看已加入组织。点击其中的![](/assets/import4.png)创建新组织；点击![](/assets/import5.png)将当前账户转换为组织账户（原用户名即为组织名）
+
+常用回复短语`Saved replies`，
 
