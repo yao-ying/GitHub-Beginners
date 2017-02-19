@@ -14,7 +14,7 @@
 
 ![](/assets/Email settings.png)
 
-邮箱设置`Emails`，添加或删除邮箱地址并决定是否公开、修改邮件通知偏好   add or remove Email address\(es\) and toggle between private and open, change Email preferences
+邮箱设置`Emails`，添加（上图②，取消勾选会公开添加的邮箱）邮箱地址并决定是否公开（上图①）、修改邮件通知偏好（上图③，选择第二个单选项将不再收到项目一般活动邮箱通知，点击`save email preferences`保存）   add or remove Email address\(es\) and toggle between private and open, change Email preferences
 
 通知设置`Noticifications`，决定收到的通知类型（邮件或是网页）decide which kind of noticifivations to receive \(Email or Web\)
 
