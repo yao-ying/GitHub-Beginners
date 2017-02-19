@@ -1,4 +1,4 @@
-完善个人账户信息虽不强制，但是绝对必要   Implementing your account info isn't compulsory but absolutely necessary
+##### 完善个人账户信息虽不强制，但是绝对必要   Implementing your account info isn't compulsory but absolutely necessary
 
 在[主页UI](/chapter1.md)的⑧中可以查看或补充你的账户详情（如下图）   Click ⑧ to overview your account or implement in [home page UI](/chapter1.md)
 
@@ -6,7 +6,7 @@
 
 其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings`for implement![](/assets/Your Profile.png)①个人设置区域，由上到下依次为：   Area for personal settings, including:
 
-账户详情`Profile`，此处完善个人信息资料   implement your personal info here
+账户详情`Profile`，此处完善个人信息资料   implement your personal info here；上图③-⑫功能依次为③修改用户名、④公开邮箱、⑤个人简介、⑥个人主页、⑦公司信息、⑧所在地、⑨是否公开私有项目（付费功能）中的活动、⑩加入GitHub开发者计划、⑪是否保存为工作招聘档案、⑫头像设置
 
 账户信息`Account`，此处修改用户名、密码或删除账户（_**不可恢复**_）change username or password, even delete account \(_**CAN NOT BE UNDONE**_\)
 
@@ -15,4 +15,14 @@
 通知设置`Noticifications`，决定收到的通知类型（邮件或是网页）decide which kind of noticifivations to receive \(Email or Web\)
 
 支付设置`Billing`，管理付费功能 manage billing info and features
+
+SSH GPG密钥 `SSH and GPG keys`，查看与账户相关的SSH及GPG密钥，用于在桌面打开项目（见[项目主页UI](/chapter1.md)⑬）时使用对应加密技术传输，如下图所示
+
+check out `SSH and GPG keys` in your account, used to enable HTTPS if you clone repo on desktop \(see [repo home UI](/chapter1.md)⑬\), see screenshot below
+
+![](/assets/加密.png)
+
+账户安全设置`Security`，查看账户两步验证情况、当前登陆活动及历史登陆活动 overview for two-factor authentication, current session and history activities.
+
+黑名单`Blocked users`，了解何种情况下可拉黑用户，被拉黑的后果以及已拉黑的用户或立即拉黑用户   check out details about blocked users
 
