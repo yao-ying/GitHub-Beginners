@@ -6,7 +6,13 @@
 
 其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings`for implement![](/assets/Your Profile.png)①个人设置区域，由上到下依次为：   Area for personal settings, including:
 
-账户详情`Profile`，此处完善个人信息资料   implement your personal info here；上图③-⑫功能依次为③修改用户名、④公开邮箱、⑤个人简介、⑥个人主页、⑦公司信息、⑧所在地、⑨是否公开私有项目（付费功能）中的活动、⑩加入GitHub开发者计划、⑪是否保存为工作招聘档案、⑫头像设置![](/assets/Account settings.png)账户信息`Account`，此处修改用户名（上图②`change username`按钮，点击`unintended side effects`查看可能的后果）、密码（上图①，`old password`处输入当前密码，下两个输入框输入新密码，点击`update password`保存或点击`I forget my password`用邮箱重置，点击`Security`查看账户安全设置）或删除账户（上图③`delete your account`按钮，_**不可恢复**_）change username or password, even delete account \(_**CAN NOT BE UNDONE**_\)
+账户详情`Profile`，此处完善个人信息资料   implement your personal info here；上图③-⑫功能依次为③修改用户名、④公开邮箱、⑤个人简介、⑥个人主页、⑦公司信息、⑧所在地、⑨是否公开私有项目（付费功能）中的活动、⑩加入GitHub开发者计划、⑪是否保存为工作招聘档案、⑫头像设置
+
+![](/assets/Account settings.png)
+
+账户信息`Account`，此处修改用户名（上图②`change username`按钮，点击`unintended side effects`查看可能的后果）、密码（上图①，`old password`处输入当前密码，下两个输入框输入新密码，点击`update password`保存或点击`I forget my password`用邮箱重置，点击`Security`查看账户安全设置）或删除账户（上图③`delete your account`按钮，_**不可恢复**_）change username or password, even delete account \(_**CAN NOT BE UNDONE**_\)
+
+![](/assets/Email settings.png)
 
 邮箱设置`Emails`，添加或删除邮箱地址并决定是否公开、修改邮件通知偏好   add or remove Email address\(es\) and toggle between private and open, change Email preferences
 
