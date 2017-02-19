@@ -16,13 +16,13 @@ Here introduces UI on GitHub and how it works.
 
 ②搜索框：全站搜索任意项目`repository`、代码`code`、代码提交`commit`、议题`issue`、介绍文档`wiki`、用户`users`；在项目主页（下图）中搜索即会限制为当前项目搜索
 
-②search box: search any` repository`, `code`, `commit`, `issue`, `wiki`, `users `at whole site level; search in repo home page \(see sreenshot below\) will set to your repo level
+②search box: search any`repository`, `code`, `commit`, `issue`, `wiki`, `users`at whole site level; search in repo home page \(see sreenshot below\) will set to your repo level
 
 ③④快速访问与你相关的提交请求`pull request`跟议题`issue`
 
 ③④quick acess to `pull requests` and issues relevant to you
 
-⑤访问GitHub `Gist`服务（快速代码白板与分享）  acess GitHub `Gist `\(code scratchpad and share\)
+⑤访问GitHub `Gist`服务（快速代码白板与分享）  acess GitHub `Gist`\(code scratchpad and share\)
 
 ⑥通知按钮：点击查看所有与你相关的通知。如你已收到新通知，按钮右上角会出现图中蓝点
 
@@ -30,7 +30,7 @@ Here introduces UI on GitHub and how it works.
 
 ⑦新建按钮：点击可以新建项目（等效于⑭）、导入项目、新的`Gist`、新建组织。**在属于你的项目主页中**还可以新建`issue`或者邀请合作人`collaborator`
 
-⑦new button: click to create a new repo \(equal to ⑭\), import a repo, new `Gist `or a new `organization`. Click this** in your repo home page** to create a new `issue `or invite a new `collaborator`
+⑦new button: click to create a new repo \(equal to ⑭\), import a repo, new `Gist`or a new `organization`. Click this** in your repo home page** to create a new `issue`or invite a new `collaborator`
 
 ⑧账户相关操作，包含：账户信息`Your profile`、你收藏的项目`Your stars`、探索GitHub `Explore`、GitHub服务集成`Integrations`、官方帮助站点`Help`、账户设置`Settings`、登出`Sign out`
 
@@ -38,7 +38,7 @@ Here introduces UI on GitHub and how it works.
 
 ⑨GitHub官方通知 noticifications from GitHub
 
-⑩通知详情，展示关于你关注的人或项目的_**公开**_详情 noticifications about_** open**_ details about people you `follow `or repo your `watch`
+⑩通知详情，展示关于你关注的人或项目的_**公开**_详情 noticifications about_** open**_ details about people you `follow`or repo your `watch`
 
 ⑪显示你有贡献（新建或讨论相关`issue`或提交过代码）的项目，点击⑫展开
 
@@ -54,23 +54,23 @@ Here introduces UI on GitHub and how it works.
 
 ②代码详情（此页为项目主页）code details \(also repo home page\)
 
-③项目相关议题`issue `in this repo
+③项目相关议题`issue`in this repo
 
 ④代码提交请求open `pull request`
 
-⑤项目工程`project`（利于团队合作）new `project `\(for team work\)
+⑤项目工程`project`（利于团队合作）new `project`\(for team work\)
 
 ⑥项目文档`wiki`
 
-⑦⑧将项目活动以图标形式显示 `graphs `to display repo activities
+⑦⑧将项目活动以图标形式显示 `graphs`to display repo activities
 
 ⑨设置，仅在属于你的项目中可见 `settings`, only visible in your repo
 
-⑩项目描述；点击右侧`Edit`按钮编辑；点击`new topics`添加项目主题标签 repo descriptions
+⑩项目描述；点击右侧`Edit`按钮编辑；点击`new topics`添加项目主题标签（仅属于你的项目可用） repo descriptions \(editable only in your repo\)
 
-⑪点击分别显示提交详情`commits `分支`branch `版本发布`release `贡献人`contributor`
+⑪点击分别显示提交详情`commits`分支`branch`版本发布`release`贡献人`contributor`
 
-⑫查看每一分支代码详情或就_**当前分支**_提出提交请求`pull request`    view details on every branch or create new `pull request `on _**current branch**_
+⑫查看每一分支代码详情或就_**当前分支**_提出提交请求`pull request`    view details on every branch or create new `pull request`on _**current branch**_
 
 ⑬新建、上传、查找文件，或将当前项目源代码打包下载或者在桌面打开（需要安装`GitHub for desktop`）open in desktop
 
@@ -80,9 +80,9 @@ Here introduces UI on GitHub and how it works.
 
 ⑯项目须知readme
 
-⑰`watch`关注这一项目所有活动，再次点击取消 `watch `all activities in this repo, click again to cancel
+⑰`watch`关注这一项目所有活动，再次点击取消 `watch`all activities in this repo, click again to cancel
 
 ⑱`star`项目收藏，再次点击取消 stargerize this repo, click again to cancel
 
-⑲`fork`新建属于你的项目副本（与主项目_**不自动同步**_） `fork `this repo \(will **NOT **sync with the original repo\)
+⑲`fork`新建属于你的项目副本（与主项目_**不自动同步**_） `fork`this repo \(will **NOT **sync with the original repo\)
 
