@@ -48,6 +48,16 @@ Here introduces UI on GitHub and how it works.
 
 ⑭新建项目按钮 new repo button
 
+![](/assets/import2.png)
+
+在主页底部可见上图内容，点击`More`查阅更多通知
+
+You can expect contents above at home buttom, click `More `for more noticifications
+
+当你已经`watch`某一项目或者`follow`某位用户，将`Subscribe to your news feed`处链接复制到RSS客户端即可收到RSS通知（需在RSS客户端输入GitHub用户名及密码）
+
+If you `watch `a repo or `follow `a user, copy link from `Subscribe to your news feed` to your RSS client for RSS noticificatioons \(GitHub username and password required\)
+
 #### 项目主页UI如下 Here is repository UI
 
 ![](./assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name

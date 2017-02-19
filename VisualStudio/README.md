@@ -9,3 +9,6 @@
 3. [如何在VisualStudio之中撤销错误的commit历史]()
 4. [如何使用VisualStudio解决团队开发过程之中的commit冲突]()
 5. [在VisualStudio之中配置repository]()
+
+
+
