@@ -4,5 +4,5 @@
 
 ![](/assets/import.png)
 
-其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings `for implement
+其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings`for implement![](/assets/Your Profile.png)在
 
