@@ -76,7 +76,7 @@ If you `watch`a repo or `follow`a user, copy link from `Subscribe to your news f
 
 ⑩项目描述；点击右侧`Edit`按钮编辑；点击`new topics`添加项目主题标签（仅属于你的项目可用） repo descriptions \(editable only in your repo\)
 
-⑪点击分别显示提交详情`commits`分支`branch`版本发布`release`贡献人`contributor`
+⑪点击分别显示提交详情`commits`分支`branch`版本发布`release`\(若该项目带有安装包式的发布则常见于此）贡献人`contributor`
 
 ⑫查看每一分支代码详情或就_**当前分支**_提出提交请求`pull request`    view details on every branch or create new `pull request`on _**current branch**_
 
