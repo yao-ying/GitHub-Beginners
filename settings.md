@@ -1,4 +1,8 @@
+## 完善你的账户   Account Settings
+
 ##### 完善个人账户信息虽不强制，但是绝对必要   Implementing your account info isn't compulsory but absolutely necessary
+
+---
 
 在[主页UI](/chapter1.md)的⑧中可以查看或补充你的账户详情（如下图）   Click ⑧ to overview your account or implement in [home page UI](/chapter1.md)
 
@@ -34,7 +38,7 @@ check out `SSH and GPG keys` in your account, used to enable HTTPS if you clone 
 
 组织详情`Organizations`，查看已加入组织。点击其中的![](/assets/import4.png)创建新组织；点击![](/assets/import5.png)将当前账户转换为组织账户（原用户名即为组织名）
 
-常用回复短语`Saved replies`，用于添加快速回复功能
+常用回复短语`Saved replies`，用于添加快速回复功能，用于[评论输入框](/comment.md)
 
 已允许的应用`Authorized applications`，查看或撤销允许登陆的应用（包含第三方站点集成登录），点击![](/assets/revoke.png)撤销该登陆方式，点击![](/assets/revoke all.png)全部撤销
 
