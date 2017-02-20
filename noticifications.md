@@ -7,5 +7,9 @@
 3. 代码新提交`push`
 4. 创建或删除项目
 
+通知中心UI如下：
+
+![](/assets/screenshot-github.com-2017-02-20-15-30-04.png)其中
+
 
 
