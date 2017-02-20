@@ -36,7 +36,7 @@ check out `SSH and GPG keys` in your account, used to enable HTTPS if you clone 
 
 常用回复短语`Saved replies`，用于添加快速回复功能
 
-已允许的应用`Authorized applications`，查看或撤销允许登陆的应用（包含第三方站点集成登录）
+已允许的应用`Authorized applications`，查看或撤销允许登陆的应用（包含第三方站点集成登录），点击![](/assets/revoke.png)撤销该登陆方式，点击![](/assets/revoke all.png)全部撤销
 
 已安装的服务集成Installed integrations，查看或设置已安装服务集成项目
 
