@@ -6,7 +6,7 @@
 
 ![](/assets/profile details.png)①为个人信息详情，显示你在`Settings`页面中的`Profile`处填写的资料[（见上一章）](/settings.md)
 
-① displays personal info, which is provided from `Profile `in `Settings `page [\(see previous chapter\)](/settings.md)
+① displays personal info, which is provided from `Profile`in `Settings`page [\(see previous chapter\)](/settings.md)
 
 ②你的常用项目 Your popular repo
 
@@ -14,9 +14,9 @@
 
 其中绿格为每日活跃度，颜色越深当日贡献越多
 
-③Your activity records, if you uncheck `Include private contributions on my profile `in `Profile `section in `Settings `page, all activities in private repos will NOT be displayed.
+③Your activity records, if you uncheck `Include private contributions on my profile`in `Profile`section in `Settings`page, all activities in private repos will NOT be displayed.
 
-④页面切换按钮，快速切换到分类详情显示：项目详情`Repositories`、收藏项目`Stars`、关注你的人`Followers`、你关注你的人`Following`。每一个页面都了提供切换排列方式的按钮。
+④页面切换按钮，快速切换到分类详情显示：项目详情`Repositories`、收藏项目`Stars`、关注你的人`Followers`、你关注你的人`Following`。`Repositories`与`Stars`页面提供切换排列方式的按钮。
 
 在`Following`、`Followers`列表中点击`Unfollow`按钮均只会**取消你对ta的关注**。
 
