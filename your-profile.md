@@ -4,7 +4,7 @@
 
 ![](/assets/import.png)
 
-其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings`for implement![](/assets/Your Profile.png)①个人设置区域，由上到下依次为：   Area for personal settings, including:
+其中点击`Your profile`查看账户详情，点击`Settings`进行补充完善   Click `Your profile` for overview, `Settings`for implement![](/assets/Your Profile.png)①个人设置区域（②开发者设置区，超出本书范围不作讨探），由上到下依次为：   Area for personal settings, including:
 
 账户详情`Profile`，此处完善个人信息资料   implement your personal info here；上图③-⑫功能依次为③修改用户名、④公开邮箱、⑤个人简介、⑥个人主页、⑦公司信息、⑧所在地、⑨是否公开私有项目（付费功能）中的活动、⑩加入GitHub开发者计划、⑪是否保存为工作招聘档案、⑫头像设置
 
@@ -34,5 +34,9 @@ check out `SSH and GPG keys` in your account, used to enable HTTPS if you clone 
 
 组织详情`Organizations`，查看已加入组织。点击其中的![](/assets/import4.png)创建新组织；点击![](/assets/import5.png)将当前账户转换为组织账户（原用户名即为组织名）
 
-常用回复短语`Saved replies`，
+常用回复短语`Saved replies`，用于添加快速回复功能
+
+已允许的应用`Authorized applications`，查看或撤销允许登陆的应用（包含第三方站点集成登录）
+
+已安装的服务集成Installed integrations，查看或设置已安装服务集成项目
 
