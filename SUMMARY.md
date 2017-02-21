@@ -9,4 +9,5 @@
 * [评论输入框comment](comment.md)
 * [鸣谢Acknowledgment](acknowledgments.md)
 * [使用VS Studio](VisualStudio/README.md)
+* [使用GitHub for Desktop](github-desktop.md)
 
