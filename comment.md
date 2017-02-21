@@ -22,3 +22,17 @@ Click `Leave a comment` to type \(and you are allowed to paste image from system
 
 ⑫插入在[`Settings`页面](/settings.md)`Saved replies`中保存的快速回复短语
 
+⑬@某人，或直接在输入@+用户名即可
+
+![](/assets/reference.png)
+
+⑭将这个`issue`或者`pull request`关联另一个`pull request`，评论发送后，关联的目标`issue`或`pull request`即可看到关联的标题或是否已关闭，如上图中为issue \#2，下图为已关闭的issue \#4
+
+![](/assets/reference 4.png)
+
+⑮点击`selecting them`选择文件插入，或从文件浏览器中拖入到输入框
+
+⑯（你的项目repository中每个issue或pull request可见，他人项目中仅在由你创建的pull request或issue可见）点击即可关闭
+
+⑰发送评论
+
