@@ -20,7 +20,7 @@ These activities from users you are `Following`will be shown only in home page \
 
 ![](/assets/screenshot-github.com-2017-02-20-15-30-04.png)左侧显示未读消息总数Unread、你参与的消息Participating、已经来自于各项目的具体消息数量
 
-右侧为具体消息预览；点击条目本身打开并标记为已读，点击![](/assets/unsubscribe.png)不在收到这个issue或者pull request的消息，点击勾号标记为已读，点击\* `more noticifications for` \* 展开，点击`Mark all as read`**清空所有消息**
+右侧为具体消息预览；点击条目本身打开并标记为已读；点击![](/assets/unsubscribe.png)不在收到这个issue或者pull request的消息；点击消息条目右侧勾号标记该消息为已读，点击项目标题右侧勾号标记所有该项目消息为已读；点击\* `more noticifications for` \* 展开；点击`Mark all as read`**清空所有消息**
 
 点击`watching`可以看到你正在关注的项目
 
