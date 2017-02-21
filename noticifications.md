@@ -22,5 +22,5 @@ These activities from users you are `Following`will be shown only in home page \
 
 右侧为具体消息预览；点击条目本身打开并标记为已读；点击![](/assets/unsubscribe.png)不在收到这个issue或者pull request的消息；点击消息条目右侧勾号标记该消息为已读，点击项目标题右侧勾号标记所有该项目消息为已读；点击\* `more noticifications for` \* 展开；点击`Mark all as read`**清空所有消息**
 
-点击`watching`可以看到你正在关注的项目
+点击`watching`可以看到你正在关注的项目，点击其中的`Unwatch`取消关注，点击`Unwatch all`取消全部
 
