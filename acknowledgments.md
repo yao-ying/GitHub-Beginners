@@ -4,6 +4,8 @@ Thanks for contribution from all collaborators. Here is a list by username-alpha
 
 [AUNSEN](https://github.com/aunsen)
 
+[itgoyo](https://github.com/itgoyo)
+
 [Semoz](https://github.com/Semoz)
 
 [xieguigang](https://github.com/xieguigang)
