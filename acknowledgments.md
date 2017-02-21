@@ -1,5 +1,7 @@
 ## 鸣谢   Acknowledgment
 
+---
+
 感谢所有本项目参与人的无私贡献。此处为用户名字母排序的贡献人列表：
 
 Thanks for contribution from all collaborators. Here is a list by username-alphabetical order:

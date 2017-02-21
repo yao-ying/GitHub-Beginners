@@ -1,5 +1,7 @@
 ## 账户详情   Your Profiles
 
+---
+
 ![](/assets/import.png)
 
 在[主页UI](/chapter1.md)⑧中可以点击`Your profile`查看账户详情（如上图）Click`Your profile`in ⑧ in [home page UI](/chapter1.md) to overview your account

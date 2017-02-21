@@ -1,8 +1,12 @@
 # UI简介  UI Introduction
 
+---
+
 此处介绍GitHub UI及其作用.
 
 Here introduces UI on GitHub and how it works.
+
+---
 
 #### 登陆后主页UI如下 Here is home page UI after login
 
@@ -55,6 +59,8 @@ You can expect contents above at home buttom, click `More`for more noticificatio
 当你已经`watch`某一项目或者`follow`某位用户，将`Subscribe to your news feed`处链接复制到RSS客户端即可收到RSS通知（_**无需**_在RSS客户端输入GitHub用户名及密码）
 
 If you `watch`a repo or `follow`a user, copy link from `Subscribe to your news feed` to your RSS client for RSS noticificatioons \(GitHub username and password _**NOT**_ required\)
+
+---
 
 #### 项目主页UI如下 Here is repository UI
 

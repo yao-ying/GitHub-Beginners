@@ -1,5 +1,7 @@
 ## 使用评论框   Comment Box
 
+---
+
 在任何一个议题`issue`或者代码提交合并请求`pull request`中均可见用于评论的输入框（如下图）
 
 You can expect comment box in any `issue`or `pull reuqest` \(as screenshot below\)

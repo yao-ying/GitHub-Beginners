@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [前言Preface](preface.md)
 * [注册账户register](register.md)
 * [UI简介](chapter1.md)
 * [完善账户信息 Settings](settings.md)
