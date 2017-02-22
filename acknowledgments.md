@@ -1,4 +1,4 @@
-## 鸣谢   Acknowledgment
+## ![](/assets/logo.png)鸣谢   Acknowledgment
 
 ---
 
