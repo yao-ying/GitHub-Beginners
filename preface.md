@@ -1,4 +1,4 @@
-# 前言  Preface
+# ![](/assets/logo.png)前言  Preface
 
 ---
 
@@ -8,5 +8,5 @@ GitHub对于所有人，无论是否是开发人员，都有其独特的学习�
 
 This is **NOT** to spread programming knowledge but to introduce GitHub as communication platform, even for those whose know little English.
 
-For everyone, whether developer or not, unique learing effect is there from GitHub. So I never hope more people block by English UI.
+For everyone, whether developer or not, unique learing effect is there from GitHub. So I never hope more people block by English UI.![](/assets/home-hero.jpg)
 

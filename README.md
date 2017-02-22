@@ -1,4 +1,4 @@
-# GitHub 新手入门
+# ![](/assets/logo.png)GitHub 新手入门
 
 ---
 
@@ -8,7 +8,7 @@
 
 ###### 更多细节参阅[此处](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)，点击[此处](mailto:emlvirus@outlook.com)使用邮件反馈
 
-# GitHub Beginners
+# ![](/assets/logo.png)GitHub Beginners
 
 ---
 
