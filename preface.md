@@ -6,7 +6,7 @@
 
 GitHub对于所有人，无论是否是开发人员，都有其独特的学习意义。因此本书也希望更多的人不被GitHub的语言门槛拦住。
 
-This is **NOT** to spread programming knowledge but to introduce GitHub as communication platform, even for those whose know little English.
+This is **NOT** to spread programming knowledge but to introduce GitHub as communication platform, even for Chinese who know little English.
 
 For everyone, whether developer or not, unique learing effect is there from GitHub. So I never hope more people block by English UI.![](/assets/home-hero.jpg)
 
