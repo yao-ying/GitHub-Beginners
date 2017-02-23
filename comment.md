@@ -10,6 +10,10 @@ You can expect comment box in any `issue`or `pull reuqest` \(as screenshot below
 
 点击`Leave a comment`处输入文本（可以直接粘贴系统剪切板中的图片），支持Markdown标记
 
+当你看到下图所示的提示时，除项目所有人`Owner`和合作人`collaborator`之外均不可在当前页面发言（项目所有人的锁帖权限）
+
+![](/assets/locked.png)
+
 Click `Leave a comment` to type \(and you are allowed to paste image from system clipboard\) with Markdown tags support
 
 ①②切换输入或预览
