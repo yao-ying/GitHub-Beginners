@@ -22,6 +22,8 @@ wait until finished \(please notice difference about repo name between two sreen
 
 ![](/assets/fork down.png)
 
+此处例子
+
 修改完成后点击![](/assets/commit change.png)来提交你的修改   click `commit changes` once you are done
 
 回到原有项目中，点击![](/assets/new pull request.png)来创建一个`pull request`   click `New pull request` to create one in former repo
@@ -38,7 +40,7 @@ add more details to your `pull request` and click `Create pull request`
 
 * 只有项目所有人`Owner`和合作人`collaborator`有权接受合并
 
-By now `owner `of former repo will notice it. Here is a merged example:
+By now `owner`of former repo will notice it. Here is a merged example:
 
 * only `Owner` and`collaborator` will have right to merge
 
