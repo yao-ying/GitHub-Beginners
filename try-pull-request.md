@@ -30,17 +30,27 @@ wait until finished \(please notice difference about repo name between two sreen
 
 ![](/assets/compare fork.png)随后输入相关描述信息：标题、描述等（建议填写尽可能详细的信息方便他人，也可忽略），点击`Create pull request`即可完成
 
+add more details to your `pull request` and click `Create pull request`
+
 ![](/assets/create pull.png)
 
 随后项目原本所有人便会在项目主页的![](/assets/see pull.png)处看到相关信息，以下为一个已接受的例子：
 
 * 只有项目所有人`Owner`和合作人`collaborator`有权接受合并
 
+By now `owner `of former repo will notice it. Here is a merged example:
+
+* only `Owner` and`collaborator` will have right to merge
+
 ![](/assets/pull merged.png)
 
 以下为一个被关闭（拒绝）的例子：
 
 * `pull request`发起人、项目所有人`owner`和合作人`collaborator`均有权关闭
+
+Here is a closed example:
+
+* creator of `pull request`,`Owner` and`collaborator` will all have right to close
 
 ![](/assets/pull closed.png)
 
