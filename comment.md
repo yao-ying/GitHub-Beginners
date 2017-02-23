@@ -10,7 +10,7 @@ You can expect comment box in any `issue`or `pull reuqest` \(as screenshot below
 
 点击`Leave a comment`处输入文本（可以直接粘贴系统剪切板中的图片），支持Markdown标记
 
-当你看到下图所示的提示时，除项目所有人`Owner`和合作人`collaborator`之外均不可在当前页面发言（项目所有人的锁帖权限）
+当你看到下图所示的提示时，除项目所有人`Owner`和合作人`collaborator`之外均不可在当前页面发言（项目所有人的锁帖权限，见[管理个人项目](/repo-management.md)一章）
 
 ![](/assets/locked.png)
 
