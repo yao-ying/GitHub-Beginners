@@ -32,3 +32,7 @@ wait until finished \(please notice difference about repo name between two sreen
 
 ![](/assets/create pull.png)
 
+随后项目原本所有人便会在项目主页的![](/assets/see pull.png)处看到相关信息，以下为一个已接受的例子：
+
+![](/assets/pull merged.png)
+
