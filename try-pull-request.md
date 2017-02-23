@@ -4,11 +4,15 @@
 
 尝试对代码项目作出贡献的办法就是发起`pull request`。此处介绍如何发起一个`pull request`，指向他人的代码项目。
 
-此处以翻译他人的XML（可用于存放程序UI中的字符串）为例：
+* 一个`pull request`的创建前提就是代码差异，比较双方可以是项目的不同分支`branch`、项目原本与他人的复刻本`fork`等
+
+此处以`fork`之后翻译他人的XML（可用于存放程序UI中的字符串）为例：
 
 The way to contribute to a repo is a pull request. Here is how, against repo of others.
 
-Here is an example as translating XML \(storing UI strings\):
+* the premise of a `pull request` is code difference, compared across `branches`, `forks`, etc.
+
+Here is an example as translating XML \(storing UI strings\) in a `fork`:
 
 ![](/assets/fork.png)首先在他人项目主页右上角点击`fork`，创建复刻以获取所有权限（如上图红框）   you will have to fork first for access writing right \(as red box above\)
 
@@ -20,5 +24,11 @@ wait until finished \(please notice difference about repo name between two sreen
 
 修改完成后点击![](/assets/commit change.png)来提交你的修改   click `commit changes` once you are done
 
+回到原有项目中，点击![](/assets/new pull request.png)来创建一个`pull request`   click `New pull request` to create one in former repo
 
+点击`compare across forks`并找到属于你的`fork`（可见于用户名），如下图所示
+
+![](/assets/compare fork.png)随后输入相关描述信息：标题、描述等，点击`Create pull request`即可完成
+
+![](/assets/create pull.png)
 
