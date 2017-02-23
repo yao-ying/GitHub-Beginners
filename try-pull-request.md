@@ -22,7 +22,11 @@ wait until finished \(please notice difference about repo name between two sreen
 
 ![](/assets/fork down.png)
 
-此处例子
+此例中，选择Zh-CN.xml，点击即可查看源码（如下图红框）  In this case, select Zh-CN.xml \(as the red box below\)
+
+![](/assets/select file.png)进入源代码后点击![](/assets/edit file.png)即可开始编辑源代码（如下图）
+
+click ![](/assets/edit file.png)to start editing source code \(as screenshot below\)
 
 修改完成后点击![](/assets/commit change.png)来提交你的修改   click `commit changes` once you are done
 
