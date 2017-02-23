@@ -9,6 +9,7 @@
 * [通知中心noticifications](noticifications.md)
 * [评论输入框comment](comment.md)
 * [尝试贡献Try pull request](try-pull-request.md)
+* [创建管理个人项目Create Repo](create-repo.md)
 * [鸣谢Acknowledgment](acknowledgments.md)
 * [使用VS Studio](VisualStudio/README.md)
 * [使用GitHub for Desktop](github-desktop.md)
