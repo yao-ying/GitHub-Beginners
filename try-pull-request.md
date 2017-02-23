@@ -38,3 +38,9 @@ wait until finished \(please notice difference about repo name between two sreen
 
 ![](/assets/pull merged.png)
 
+以下为一个被关闭（拒绝）的例子：
+
+* `pull request`发起人、项目所有人`owner`和合作人`collaborator`均有权关闭
+
+![](/assets/pull closed.png)
+
