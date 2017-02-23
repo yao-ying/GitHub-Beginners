@@ -1,8 +1,8 @@
 ## 全新注册一个GitHub账户   Sign Up to GitHub
 
-使用GitHub所有功能的前提就是拥有一个GitHub账户，此处介绍如何注册。
+除下载发布或源代码包外，使用GitHub功能的前提就是拥有一个GitHub账户，此处介绍如何注册。
 
-The premise to use GitHub is its account, so you have to sign up.
+Despite of downloading releases and source code packs, the premise to use GitHub is its account so you have to sign up.
 
 ---
 
