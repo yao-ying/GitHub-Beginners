@@ -50,13 +50,27 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 ---
 
-#### 标签与里程碑  Labels & Milestones
+#### 标签  Labels 
 
-**在你的项目中**，你可以编辑你的标签`Labels`跟里程碑`Milestones`以更好地管理`issue`
+**在你的项目中**，你可以编辑你的标签`Labels`以更好地管理`issue`与`pullrequest`
 
-**In your repo**, editing your `Labels`and `Milestones`can help manage better
+**In your repo**, editing your `Labels`can help manage better
 
 点击搜索框旁的按钮即可进去编辑页面，其中标签Labels编辑页面如下：  Here is UI for Labels editing page:
+
+![](/assets/label edit.png)①转到里程碑`Milestones`页面，见下一部分
+
+②创建新标签，点击后输入，选择颜色，点击`Create label`即可
+
+③排序：按照字母与使用次数等
+
+④编辑，修改颜色与名称
+
+⑤删除。删除标签的同时会删除**已贴上该标签的所有issue与pull request**
+
+---
+
+#### 里程碑  Milestones
 
 
 
