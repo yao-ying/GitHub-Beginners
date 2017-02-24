@@ -26,9 +26,25 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 #### 对issue的标记操作  Mark Your Issues
 
-在你的项目中，使用`issue`复选框选中至少一个`issue`之后，UI变更如下
+**在你的项目中**，使用`issue`复选框选中至少一个`issue`之后，UI变更如下
 
-In your repo, select at least one `issue`, UI changes to:
+**In your repo**, select at least one `issue`, UI changes to:
 
-![](/assets/mark issue.png)①
+![](/assets/mark issue.png)①若当前显示 Open的`issue`，点击`Mark as`，选择`Closed`即可关闭；反之，点击`Mark as`中的`open`将关闭的`issue `重新开启
+
+②③添加标签`Label`及里程碑`Milestone`，如不合适在搜索框旁对应按钮处编辑即可
+
+④指定`Assign`负责人；若当前项目存在合作人`collaborator`而你为所有人`Owner`，则可指定其中任意一人，否则**仅可**指定自己；若为组织账户`Organization`则可以指定组织中任意用户
+
+以上②~④操作等效于issue详情页（点击任何项目的issue标题即可进入）右侧的操作按钮，如下图
+
+![](/assets/issue details.png)
+
+①操作等效于详情页的![](/assets/close issue.png)按钮
+
+---
+
+#### 标签与里程碑  Labels & Milestones
+
+
 
