@@ -74,7 +74,7 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 里程碑`Milestones`也是另一个有效的管理方式，用于安排表明项目进程。管理UI如下：
 
-![](/assets/milestone UI.png)①类似于issue中切换显示Open与Closed
+![](/assets/milestone UI.png)①类似于`issue`中切换显示`Open`与`Closed`
 
 ②显示创建时提供的标题、描述、到期时间，并显示最后修改时间
 
