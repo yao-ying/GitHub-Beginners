@@ -46,6 +46,8 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 ①操作等效于详情页的![](/assets/close issue.png)按钮；在`pull request`页面中等效于相同位置的关闭按钮
 
+此外`pull request`页面中`Merge`按钮为接受合并；在接受合并前，请注意系统自动检查情况，出现红叉则建议手动合并
+
 ---
 
 #### 标签与里程碑  Labels & Milestones
@@ -53,4 +55,8 @@ Utilize GitHub features to optimize efficiency. Here are details
 **在你的项目中**，你可以编辑你的标签`Labels`跟里程碑`Milestones`以更好地管理`issue`
 
 **In your repo**, editing your `Labels`and `Milestones`can help manage better
+
+点击搜索框旁的按钮即可进去编辑页面，其中标签Labels编辑页面如下：  Here is UI for Labels editing page:
+
+
 
