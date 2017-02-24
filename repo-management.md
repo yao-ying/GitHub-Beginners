@@ -48,6 +48,9 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 此外`pull request`页面中`Merge`按钮为接受合并；在接受合并前，请注意系统自动检查情况，出现红叉则建议手动合并
 
+* 此外无论在任何人的项目中，若`issue`或`pull request`已经使用标签`Label`、里程碑`Milestone`、负责人`Asignee`等标记，点击该标记即可快速查看改分类
+* Plus, no matter which repo it is, if this issue or pull request is marked with a Label, Milestone, Asignee, etc, click it to access such category
+
 ---
 
 #### 标签  Labels
