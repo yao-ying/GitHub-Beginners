@@ -18,9 +18,17 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 ④创建新议题`issue`
 
-⑤复选框（仅你的项目可见）。最上方的一个为全选或全不选，issue标题旁为单项复选。选择issue之后可以对其进行操作（如下图）；点击`Closed`查看已关闭的`issue`，点击`Open`返回（默认仅显示仍打开`Open`的`issue`）。
+⑤复选框（仅你的项目可见）。最上方的一个为全选或全不选，issue标题旁为单项复选。选择issue之后可以对其进行操作（见下一部分）；点击`Closed`查看已关闭的`issue`，点击`Open`返回（默认仅显示仍打开`Open`的`issue`）。
 
 ⑥~⑩各种`issue`快速筛选条件，可与①结合使用，分别为创建人Author、标签Labels、里程碑Milestones、负责人Assignee、出现最多的emoji表情符号
 
+---
 
+#### 对issue的标记操作  Mark Your Issues
+
+在你的项目中，使用`issue`复选框选中至少一个`issue`之后，UI变更如下
+
+In your repo, select at least one `issue`, UI changes to:
+
+![](/assets/mark issue.png)①
 
