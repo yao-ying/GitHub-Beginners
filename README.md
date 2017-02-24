@@ -8,7 +8,7 @@
 
 ###### 更多细节参阅[此处](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)；点击[此处](mailto:emlvirus@outlook.com)使用邮件反馈；点击[此处](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3)查看介绍文档
 
-另外感谢以下私人博客的专访（无排序）  Also grateful to the following private blogs:
+另外感谢以下私人博客的专访（无排序）
 
 1. [零散坑](https://03k.org/github-guide.html)
 2. [阳光盒子](http://sunbox.cc/github-started.html)
@@ -22,6 +22,11 @@ This is to introduce how to get started with GitHub.
 Note that only basic knowledge that everyone can learn through will be intoduced here.
 
 ###### Click [here](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1) for more details, [here](mailto:emlvirus@outlook.com) to send feedback via email, [here ](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3)for wiki
+
+Also grateful to the following private blogs:
+
+1. [03k.org](https://03k.org/github-guide.html)
+2. [sunbox](http://sunbox.cc/github-started.html)
 
 
 
