@@ -50,7 +50,7 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 ---
 
-#### 标签  Labels 
+#### 标签  Labels
 
 **在你的项目中**，你可以编辑你的标签`Labels`以更好地管理`issue`与`pullrequest`
 
@@ -72,5 +72,17 @@ Utilize GitHub features to optimize efficiency. Here are details
 
 #### 里程碑  Milestones
 
+里程碑`Milestones`也是另一个有效的管理方式，用于安排表明项目进程。管理UI如下：
 
+![](/assets/milestone UI.png)①类似于issue中切换显示Open与Closed
+
+②显示创建时提供的标题、描述、到期时间，并显示最后修改时间
+
+③完成进程，即标记有这个里程碑`Milestone`的`issue`中有多少已经被`closed`；
+
+点击Edit即可编辑里程碑`Milestone`信息；`close`关闭，则不再显示；点击`Delete`永久删除
+
+④排序，可按照修改时间、到期时间、标记的`issue`数量、完成度等进行排序
+
+⑤新建里程碑`Milestones`，点击后输入标题、描述（可不填）并选择到期时间（可不选），点击`Create milestone`即可创建；过程中点击右上角的`clear`清空已填内容
 
