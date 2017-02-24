@@ -14,5 +14,10 @@ Thanks for contribution from all collaborators. Here is a list by username-alpha
 
 [xieguigang](https://github.com/xieguigang)
 
-另外感谢kissshot私人博客[独家专访](https://03k.org/github-guide.html)
+另外感谢以下私人博客的专访
+
+1. [零散坑](https://03k.org/github-guide.html)
+2. [阳光盒子](http://sunbox.cc/github-started.html)
+
+
 
