@@ -18,7 +18,7 @@
 
 ---
 
-This is to introduce how to get started with GitHub.
+This document is about to introducing how the beginners get started with GitHub.
 
 Note that only basic knowledge that everyone can learn through will be intoduced here.
 
