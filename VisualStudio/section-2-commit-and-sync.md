@@ -7,3 +7,7 @@
 |svn|                          |[local] commit --> [remote]|
 |git|[local] commit --> [local]|[local] sync  <--> [remote]|
 
+使用VisualStudio之中的github客户端进行源代码的保存操作大致需要经过两个主要步骤：
+
++ **local commit**, 本地提交
++ **sync with remote**, 与远程仓库同步
