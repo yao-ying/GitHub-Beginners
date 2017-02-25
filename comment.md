@@ -2,6 +2,8 @@
 
 ---
 
+#### 评论发送之前  Before Publishing Comment
+
 在任何一个议题`issue`或者代码提交合并请求`pull request`中均可见用于评论的输入框（如下图）
 
 You can expect comment box in any `issue`or `pull reuqest` \(as screenshot below\)
@@ -43,4 +45,24 @@ Click `Leave a comment` to type \(and you are allowed to paste image from system
 ⑯（你的项目repository中每个issue或pull request可见，他人项目中仅在由你创建的pull request或issue可见）点击即可关闭
 
 ⑰发送评论
+
+---
+
+#### 评论发送之后  After Publishing Comment
+
+以下三个按钮可以用于在评论发送之后修改评论  The three following buttons are for modifying comment after it is published
+
+![](/assets/comment buttons.png)
+
+从左到右分别为添加emoji、修改以及删除
+
+* 不可以删除`issue`或者`pull request`创建时的描述；除非你为项目所有人`Owner`，否则你也无权删除除创建描述之外的他人评论
+
+* 使用修改按钮修改过的评论会被标记![](/assets/comment edited.png)
+
+* Description during creating the issue or pull request can NOT be deleted; unless you are repo Owner, you will NOT have right to delete comment from others despite that
+
+* Edited comment will be marked if you did edit it with that button ![](/assets/comment edited.png)
+
+
 
