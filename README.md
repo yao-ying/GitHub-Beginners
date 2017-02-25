@@ -1,4 +1,4 @@
-# ![](/assets/logo.png)GitHub 新手入门
+# ![](/assets/logo.png) GitHub 新手入门
 
 ---
 
@@ -14,7 +14,9 @@
 2. [阳光盒子介绍](http://sunbox.cc/github-started.html)
 3. [火狐范友情链接](http://firefoxfan.org/)
 
-# ![](/assets/logo.png)GitHub Beginners
+> [**开始阅读:** >>](./SUMMARY.md)
+
+# ![](/assets/logo.png) GitHub Beginners
 
 ---
 
