@@ -7,3 +7,7 @@
 |svn|                          |[local] commit --> [remote]|
 |git|[local] commit --> [local]|[local] sync  <--> [remote]|
 
+
+通过点击
+
+![](./images/s2/basic-operations.png)
