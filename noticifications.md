@@ -2,7 +2,7 @@
 
 ---
 
-点击[主页UI](/chapter1.md)中的![](/assets/bell.png)按钮进入通知中心可查看通知，主要包含你`watch`所有项目以及所有与你相关的议题`issue`评论`comment`或提交请求`pull request`评论`comment`
+点击[主页UI](/chapter1.md\)中的![]\(/assets/bell.png)按钮进入通知中心可查看通知，主要包含你`watch`所有项目以及所有与你相关的议题`issue`评论`comment`或提交请求`pull request`评论`comment`
 
 你关注的用户`Following`的如下活动仅见于主页（或RSS消息）：
 
@@ -31,4 +31,6 @@ These activities from users you are `Following`will be shown only in home page \
 右侧为具体消息预览；点击条目本身打开并标记为已读；点击![](/assets/unsubscribe.png)不在收到这个issue或者pull request的消息；点击消息条目右侧勾号标记该消息为已读，点击项目标题右侧勾号标记所有该项目消息为已读；点击\* `more noticifications for` \* 展开；点击`Mark all as read`**清空所有消息**
 
 点击`watching`可以看到你正在关注的项目，点击其中的`Unwatch`取消关注，点击`Unwatch all`取消全部
+
+
 
