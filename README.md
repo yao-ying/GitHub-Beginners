@@ -6,7 +6,7 @@
 
 请注意：只有人人均可熟练掌握的知识才会被列入本项目。
 
-###### 更多细节参阅[此处](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1\)；点击[此处]\(mailto:emlvirus@outlook.com\)使用邮件反馈；点击[此处]\(https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3)查看介绍文档
+###### 更多细节参阅[此处](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)；点击[此处](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3)查看介绍文档
 
 另外感谢以下私人博客的合作（无排序）
 
@@ -24,7 +24,7 @@ This document is about to introducing how the beginners get started with GitHub.
 
 Note that only basic knowledge that everyone can learn through will be intoduced here.
 
-###### Click [here](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1\) for more details, [here]\(mailto:emlvirus@outlook.com\) to send feedback via email, [here ]\(https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3)for wiki
+###### Click [here ](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)for more info and [here](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3) for wiki
 
 Also grateful to the following private blogs:
 
